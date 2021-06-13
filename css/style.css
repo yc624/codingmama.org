@@ -6,13 +6,17 @@
  * Made By MaterializeCSS.com
  */
 
-nav ul a,
-nav .brand-logo {
-  color: #444;
+.brand-logo {
+  margin-left:10px;
+}
+
+.baby-bib-img {
+  max-width: 300px;
 }
 
 p {
-  line-height: 2rem;
+  line-height: 3rem;
+  font-size: 1.5rem;
 }
 
 .sidenav-trigger {
